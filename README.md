@@ -14,6 +14,6 @@ If you haven't already, checkout my introduction to using [nflscrapR](https://gi
 The first analysis is relatively simple, looking at average EPA on runs vs. passes each week of the 2018 season. What we see is that every single week, passing generates a higher average EPA compared to running the ball. Neutral situations were also examined (first and second downs in the first half) and the same relationship held true. In both cases, passing EPA seemed to take a dip in the last few weeks of the season. However, rushing EPA did not see an uptick during the passing dip. 
 
 ### Designed Runs vs Scrambles
-Looking at EPA on designed run plays versus scrambles. We see that scrambles typically result in a much greater EPA than designed run plays. 
+Looking at EPA on designed run plays versus scrambles. We see that scrambles typically result in a much greater EPA than designed run plays. Designed runs for QBs are much more successful than non-QB runs, but don't typically provide a high EPA. 
 
-!["scrambles"](https://user-images.githubusercontent.com/38873110/62155815-5db11d00-b2f9-11e9-8dcb-610534d5096e.PNG)
+!["all_runs"](https://user-images.githubusercontent.com/38873110/62161389-90f9a900-b305-11e9-919d-af8f02f01bf8.PNG)
