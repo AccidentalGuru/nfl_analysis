@@ -2,9 +2,7 @@
 A repository for my explorations in NFL play-by-play data via nflscrapR
 
 ## How to Use
-There are three main folders: charting outputs, jupyter notebooks, and python scripts. Charting outputs are images of charts produced in either a jupyter notebook or script.
-
-The jupyter notebook and python scripts folders will contain the same files with the difference being that jupyter notebooks are .ipynb files and scripts are .py.
+There are two main folders: charting outputs and jupyter notebooks. Charting outputs are images of charts produced in either a jupyter notebook or script. The jupyter notebooks contain all the necessary code the produce the charting outputs. 
 
 If you haven't already, checkout my introduction to using [nflscrapR](https://github.com/maksimhorowitz/nflscrapR) data in Python [here](https://gist.github.com/Deryck97/fa4abc0e66b77922634be9f51f9a1052).
 
