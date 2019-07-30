@@ -15,4 +15,5 @@ The first analysis is relatively simple, looking at average EPA on runs vs. pass
 
 ### Designed Runs vs Scrambles
 Looking at EPA on designed run plays versus scrambles. We see that scrambles typically result in a much greater EPA than designed run plays. 
+
 !["scrambles"](https://user-images.githubusercontent.com/38873110/62155815-5db11d00-b2f9-11e9-8dcb-610534d5096e.PNG)
