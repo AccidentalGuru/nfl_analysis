@@ -6,6 +6,8 @@ There are three main folders: charting outputs, jupyter notebooks, and python sc
 
 The jupyter notebook and python scripts folders will contain the same files with the difference being that jupyter notebooks are .ipynb files and scripts are .py.
 
+If you haven't already, checkout my introduction to using [nflscrapR](https://github.com/maksimhorowitz/nflscrapR) data in Python [here](https://gist.github.com/Deryck97/fa4abc0e66b77922634be9f51f9a1052).
+
 ## Topics
 
 ### Week by Week EPA Analysis
